@@ -1,1 +1,8 @@
-[README.md](https://github.com/user-attachments/files/19733292/README.md)
+# 铁板神数起卦系统
+
+基于《皇极经世》和五音六律精定位算法的起卦解读系统。
+本项目可部署于 GitHub Pages，使用者可根据生辰校准八字，并通过 ChatGPT API 进行智能问卜。
+
+## 文件说明
+- `index.html`: 主页面（支持前端交互）
+- `tieshu_core.js`: 起卦算法逻辑
